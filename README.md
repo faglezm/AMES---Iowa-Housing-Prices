@@ -8,3 +8,4 @@ Data Cleaning / FIltering - Iowa Housing -Fausto Main_Data
 Statistical Analysis  - Iowa Housing -Fausto Corr_Reg
 
 
+The data helped me to understand how the market has behaved in Iowa in the last hundred years as well as breakdown the house configuration and how the price is setup based on a bunch of items that has a direct influence in the price.
